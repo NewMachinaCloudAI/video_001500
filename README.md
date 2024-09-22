@@ -5,4 +5,5 @@ Simple Langchain HelloWorld in Python. The python script connects and sends a pr
 
 Dependency:
 pip3 install langchain
+
 pip3 install langchain-openai
